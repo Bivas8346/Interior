@@ -1,0 +1,75 @@
+{
+    "Cms":[{
+        "Cms_name":"Office",
+        "Cms_id":"A01",
+        "Cms_desc":" A standard office space is divided into separate rooms and typically includes restrooms, and a possibly a residential-style kitchen.",
+        "Cms_img1":"../../../../Assats/Store/office1.jpg",
+        "Cms_img2":"../../../../Assats/Store/office2.jpg",
+        "Cms_img3":"../../../../Assats/Store/office1.jpg",
+        "Cms_img4":"../../../../Assats/Store/office4.jpg"
+    },{
+        "Cms_name":"Industrial",
+        "Cms_id":"B01",
+        "Cms_desc":"The sector includes service businesses, such as shops and stores, hotels and motels, restaurants, and hospitals, as well as a wide range of facilities that would not be considered commercial in a traditional economic sense, such as public schools, specialized governmental facilities, and religious organizations.",
+        "Cms_img1":"../../../../Assats/Store/industrial1.jpg",
+        "Cms_img2":"../../../../Assats/Store/industrial2.jpg",
+        "Cms_img3":"../../../../Assats/Store/industrial3.jpg",
+        "Cms_img4":"../../../../Assats/Store/industrial4.jpeg"
+    },{
+        "Cms_name":"Retail",
+        "Cms_id":"C01",
+        "Cms_desc":"Commercial Retail means the sale or display of merchandise to the public including the storage of merchandise on or about the premises in quantities sufficient only to supply the public for a reasonable period of time.",
+        "Cms_img1":"../../../../Assats/Store/retail1.jpg",
+        "Cms_img2":"../../../../Assats/Store/retail2.jpg",
+        "Cms_img3":"../../../../Assats/Store/retail3.jpg",
+        "Cms_img4":"../../../../Assats/Store/retail4.jpg"
+    },{
+        "Cms_name":"Hotels",
+        "Cms_id":"D01",
+        "Cms_desc":"Some things that matter to guests in hotel descriptions are the location of the hotel, the amenities offered, and how close it is to attractions. ",
+        "Cms_img1":"../../../../Assats/Store/hotel3.jpg",
+        "Cms_img2":"../../../../Assats/Store/hotel2.jpg",
+        "Cms_img3":"../../../../Assats/Store/hotel1.jpg",
+        "Cms_img4":"../../../../Assats/Store/hotel4.jpg"
+    },{
+        "Cms_name":"Land Office",
+        "Cms_id":"E01",
+        "Cms_desc":"a building or piece of land used for business, or this land or these properties in general: We would like to convert commercial properties back to residential use. commercial property market/sector.",
+        "Cms_img1":"../../../../Assats/Store/land1.jpg",
+        "Cms_img2":"../../../../Assats/Store/land2.jpg",
+        "Cms_img3":"../../../../Assats/Store/land3.jpg",
+        "Cms_img4":"../../../../Assats/Store/land4.jpg"
+    },{
+        "Cms_name":"Special Purpose",
+        "Cms_id":"F01",
+        "Cms_desc":" Commercial properties, as the name suggests, refer to properties used exclusively for business or income-generating purposes. Such properties are usually leased to tenants to conduct business related activities.",
+        "Cms_img1":"../../../../Assats/Store/special1.jpg",
+        "Cms_img2":"../../../../Assats/Store/special2.jpg",
+        "Cms_img3":"../../../../Assats/Store/special3.jpg",
+        "Cms_img4":"../../../../Assats/Store/special4.jpg"
+    },{
+        "Cms_name":"Resturant",
+        "Cms_id":"G01",
+        "Cms_img1":"../../../../Assats/Store/resturant4.jpg",
+        "Cms_img2":"../../../../Assats/Store/resturant2.jpg",
+        "Cms_img3":"../../../../Assats/Store/resturant3.jpg",
+        "Cms_img4":"../../../../Assats/Store/resturant1.jpg",
+        "Cms_desc":"Restaurant ambiance involves everything from lighting and sound to décor and color. But it also involves the mood and, of course, cleanliness. "
+    },{
+        "Cms_name":"Community Hall",
+        "Cms_id":"H01",
+        "Cms_desc":"Community centers should be a place to meet and connect, whether for fitness or recreation, to learn and grow or as a place to gather and belong.",
+        "Cms_img1":"../../../../Assats/Store/hall3.jpg",
+        "Cms_img2":"../../../../Assats/Store/hall1.jpg",
+        "Cms_img3":"../../../../Assats/Store/hall2.jpg",
+        "Cms_img4":"../../../../Assats/Store/hall4.jpg"
+    },{
+        "Cms_name":"Banquet",
+        "Cms_id":"I01",
+        "Cms_desc":"A banquet hall, function hall, or reception hall, is a special purpose room, or a building, used for hosting large social and business events.",
+        "Cms_img1":"../../../../Assats/Store/banquet4.jpg",
+        "Cms_img2":"../../../../Assats/Store/banquet2.jpg",
+        "Cms_img3":"../../../../Assats/Store/banquet3.jpg",
+        "Cms_img4":"../../../../Assats/Store/banquet4.jpg"
+    }]
+}

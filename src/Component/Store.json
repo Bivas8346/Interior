@@ -1,0 +1,446 @@
+{
+    "Store": [
+        {
+            "Store_name": "Furniture",
+            "Store_id": "M01",
+            "Store_img": "../../../../Assats/home1/furniture.jpg",
+            "sub_store": [
+                {
+                    "sub_name": "Sofas",
+                    "sub_id": "M01_A",
+                    "sub_img": "../../../../Assats/Store/sofa.jpg",
+                    "pro_store": [
+                        {
+                            "pro_id": "M01_A1",
+                            "pro_name": "Single seater sofas",
+                            "pro_img": "../../../../Assats/Store/single_sofa.jpg"
+                        },
+                        {
+                            "pro_id": "M01_A2",
+                            "pro_name": "Corner 6 seater sofas",
+                            "pro_img": "../../../../Assats/Store/corner sofa.jpg"
+                        },
+                        {
+                            "pro_id": "M01_A3",
+                            "pro_name": "U shape sofas",
+                            "pro_img": "../../../../Assats/Store/u sofa.jpg"
+                        },
+                        {
+                            "pro_id": "M01_A4",
+                            "pro_name": "sofacum bed",
+                            "pro_img": "../../../../Assats/Store/bed sofa.jpg"
+                        },
+                        {
+                            "pro_id": "M01_A5",
+                            "pro_name": "Right sectional",
+                            "pro_img": "../../../../Assats/Store/right_sofa.jpg"
+                        },
+                        {
+                            "pro_id": "M01_A6",
+                            "pro_name": "Left sectional",
+                            "pro_img": "../../../../Assats/Store/left.jpg"
+                        }
+                    ]
+                },
+                {
+                    "sub_name": "Occesional Seating",
+                    "sub_id": "M01_B",
+                    "sub_img": "../../../../Assats/Store/ocesional.jpg",
+                    "pro_store": [
+                        {
+                            "pro_id": "M01_B1",
+                            "pro_name": "Accent Chairs",
+                            "pro_img": "../../../../Assats/Store/accent chair.jpg"
+                        },
+                        {
+                            "pro_id": "M01_B2",
+                            "pro_name": "Ottomans",
+                            "pro_img": "../../../../Assats/Store/ottomans.jpg"
+                        },
+                        {
+                            "pro_id": "M01_B3",
+                            "pro_name": "Benches",
+                            "pro_img": "../../../../Assats/Store/bench.jpg"
+                        }
+                    ]
+                },
+                {
+                    "sub_name": "Beds",
+                    "sub_id": "M01_C",
+                    "sub_img": "../../../../Assats/Store/bed.jpg",
+                    "pro_store": [
+                        {
+                            "pro_id": "M01_C1",
+                            "pro_name": "Hydraulic Beds",
+                            "pro_img": "../../../../Assats/Store/hydraulic.jpg"
+                        },
+                        {
+                            "pro_id": "M01_C2",
+                            "pro_name": "Beds with storage",
+                            "pro_img": "../../../../Assats/Store/storebed.jpg"
+                        },
+                        {
+                            "pro_id": "M01_C3",
+                            "pro_name": "Beds without storage",
+                            "pro_img": "../../../../Assats/Store/ss.jpg"
+                        },
+                        {
+                            "pro_id": "M01_C4",
+                            "pro_name": "Upholstered Beds",
+                            "pro_img": "../../../../Assats/Store/up.jpg"
+                        }
+                    ]
+                },
+                {
+                    "sub_name": "Mattress & pillows",
+                    "sub_id": "M01_D",
+                    "sub_img": "../../../../Assats/Store/mat.jpg"
+                }
+            ]
+        },
+        {
+            "Store_name": "Home Textiles",
+            "Store_id": "N01_A",
+            "Store_img": "../../../../Assats/Store/home textile.jpg",
+            "sub_store": [
+                {
+                    "sub_name": "Bedsheets",
+                    "sub_id": "N01_A",
+                    "sub_img": "../../../../Assats/Store/bedsheet.jpg",
+                    "pro_store": [
+                        {
+                            "pro_id": "N01_A1",
+                            "pro_name": "Fitted Bedsheets",
+                            "pro_img": "../../../../Assats/Store/fitted.jpg"
+                        },
+                        {
+                            "pro_id": "N01_A2",
+                            "pro_name": "Printed Bedsheets",
+                            "pro_img": "../../../../Assats/Store/printed.jpg"
+                        },
+                        {
+                            "pro_id": "N01_A3",
+                            "pro_name": "Egyptian Bedsheets",
+                            "pro_img": "../../../../Assats/Store/egypt.jpg"
+                        },
+                        {
+                            "pro_id": "N01_A4",
+                            "pro_name": "Tencel Bedsheets",
+                            "pro_img": "../../../../Assats/Store/tencel.jpg"
+                        }
+                    ]
+                },
+                {
+                    "sub_name": "Curtains",
+                    "sub_id": "N01_B",
+                    "sub_img": "../../../../Assats/Store/curtain.jpg",
+                    "pro_store": [
+                        {
+                            "pro_id": "N01_B1",
+                            "pro_name": "Solid Curtains",
+                            "pro_img": "../../../../Assats/Store/solid.jpg"
+                        },
+                        {
+                            "pro_id": "N01_B2",
+                            "pro_name": "Sheer Curtains",
+                            "pro_img": "../../../../Assats/Store/sheer.jpg"
+                        },
+                        {
+                            "pro_id": "N01_B3",
+                            "pro_name": "Jacquard Curtains ",
+                            "pro_img": "../../../../Assats/Store/jac.jpg"
+                        },
+                        {
+                            "pro_id": "N01_B4",
+                            "pro_name": "Textured Curtains",
+                            "pro_img": "../../../../Assats/Store/text.jpg"
+                        }
+                    ]
+                },
+                {
+                    "sub_name": "Cushion Covers",
+                    "sub_id": "N01_C",
+                    "sub_img": "../../../../Assats/Store/cushion.jpg",
+                    "pro_store": [
+                        {
+                            "pro_id": "N01_C1",
+                            "pro_name": "Printed Cushion cover",
+                            "pro_img": "../../../../Assats/Store/printed cushion.jpg"
+                        },
+                        {
+                            "pro_id": "N01_C2",
+                            "pro_name": "Ambrodari Cushion cover",
+                            "pro_img": "../../../../Assats/Store/ambrodari.jpg"
+                        },
+                        {
+                            "pro_id": "N01_C3",
+                            "pro_name": "Solid Cushion cover",
+                            "pro_img": "../../../../Assats/Store/solid cushion.jpg"
+                        }
+                    ]
+                },
+                {
+                    "sub_name": "Rugs",
+                    "sub_id": "N01_D",
+                    "sub_img": "../../../../Assats/Store/rug.jpg"
+                }
+            ]
+        },
+        {
+            "Store_name": "Decor",
+            "Store_id": "P01",
+            "Store_img": "../../../../Assats/Store/decor.jpg",
+            "sub_store": [
+                {
+                    "sub_name": "Clock",
+                    "sub_id": "P01_A",
+                    "sub_img": "../../../../Assats/Store/clock.jpg",
+                    "pro_store": [
+                        {
+                            "pro_id": "P01_A1",
+                            "pro_name": "Wall clock",
+                            "pro_img": "../../../../Assats/Store/wall.jpg"
+                        },
+                        {
+                            "pro_id": "P01_A2",
+                            "pro_name": "Table clock",
+                            "pro_img": "../../../../Assats/Store/table clock.jpg"
+                        }
+                    ]
+                },
+                {
+                    "sub_name": "Wall art & hanging",
+                    "sub_id": "P01_B",
+                    "sub_img": "../../../../Assats/Store/wallhang.jpg",
+                    "pro_store": [
+                        {
+                            "pro_id": "P01_B1",
+                            "pro_name": "Metal art",
+                            "pro_img": "../../../../Assats/Store/metalart.jpg"
+                        },
+                        {
+                            "pro_id": "P01_B2",
+                            "pro_name": "Prints & canvas",
+                            "pro_img": "../../../../Assats/Store/canvas.jpg"
+                        }
+                    ]
+                },
+                {
+                    "sub_name": "Home Garden",
+                    "sub_id": "P01_C",
+                    "sub_img": "../../../../Assats/Store/homegarden.jpg",
+                    "pro_store": [
+                        {
+                            "pro_id": "P01_C1",
+                            "pro_name": "Faux Botanical",
+                            "pro_img": "../../../../Assats/Store/botanical.jpg"
+                        },
+                        {
+                            "pro_id": "P01_C2",
+                            "pro_name": "Planters",
+                            "pro_img": "../../../../Assats/Store/planters.jpg"
+                        }
+                    ]
+                },
+                {
+                    "sub_name": "Mirrors & Decorative objects",
+                    "sub_id": "P01_D",
+                    "sub_img": "../../../../Assats/Store/mirror.jpg",
+                    "pro_store": [
+                        {
+                            "pro_id": "P01_D1",
+                            "pro_name": "Vases",
+                            "pro_img": "../../../../Assats/Store/vaces.jpg"
+                        },
+                        {
+                            "pro_id": "P01_D2",
+                            "pro_name": "Table photo frame",
+                            "pro_img": "../../../../Assats/Store/tablephoto.jpg"
+                        },
+                        {
+                            "pro_id": "P01_D3",
+                            "pro_name": "Artifact",
+                            "pro_img": "../../../../Assats/Store/artifact.jpg"
+                        },
+                        {
+                            "pro_id": "P01_D4",
+                            "pro_name": "Tissues &trinket boxes",
+                            "pro_img": "../../../../Assats/Store/tissue.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Store_name": "Lighting",
+            "Store_id": "R01",
+            "Store_img": "../../../../Assats/Store/light.jpg",
+            "sub_store": [
+                {
+                    "sub_name": "Floor Lamps",
+                    "sub_id": "R01_A",
+                    "sub_img": "../../../../Assats/Store/floorlamp.jpg"
+                },
+                {
+                    "sub_name": "Pendents",
+                    "sub_id": "R01_B",
+                    "sub_img": "../../../../Assats/Store/pendentlamp.jpg"
+                },
+                {
+                    "sub_name": "Wall Lights",
+                    "sub_id": "R01_C",
+                    "sub_img": "../../../../Assats/Store/walllight.jpg"
+                },
+                {
+                    "sub_name": "Table lamp",
+                    "sub_id": "R01_D",
+                    "sub_img": "../../../../Assats/Store/tablelamp.jpg"
+                }
+            ]
+        },
+        {
+            "Store_name": "Kitchen & dinning",
+            "Store_id": "S01",
+            "Store_img": "../../../../Assats/Store/kitchen.jpg",
+            "sub_store": [
+                {
+                    "sub_name": "Dinnerware",
+                    "sub_id": "S01_A",
+                    "sub_img": "../../../../Assats/Store/dinnerware.jpg",
+                    "pro_store": [
+                        {
+                            "pro_id": "S01_A1",
+                            "pro_name": "Ceramic Bowl",
+                            "pro_img": "../../../../Assats/Store/ceramicbowl.jpg"
+                        },
+                        {
+                            "pro_id": "S01_A2",
+                            "pro_name": "Ceramic Dinner plates",
+                            "pro_img": "../../../../Assats/Store/ceramicplate.jpg"
+                        },
+                        {
+                            "pro_id": "S01_A3",
+                            "pro_name": "Marbel & ceramic Bowl ",
+                            "pro_img": "../../../../Assats/Store/marbel.jpg"
+                        }
+                    ]
+                },
+                {
+                    "sub_name": "Cutlery",
+                    "sub_id": "S01_B",
+                    "sub_img": "../../../../Assats/Store/cut.jpg",
+                    "pro_store": [
+                        {
+                            "pro_id": "S01_B1",
+                            "pro_name": "Gold finish Spoons & Forks",
+                            "pro_img": "../../../../Assats/Store/gold.jpg"
+                        },
+                        {
+                            "pro_id": "S01_B2",
+                            "pro_name": "Designer Handle Spoons",
+                            "pro_img": "../../../../Assats/Store/spoon.jpg"
+                        }
+                    ]
+                },
+                {
+                    "sub_name": "Serveware",
+                    "sub_id": "S01_C",
+                    "sub_img": "../../../../Assats/Store/serve.jpg",
+                    "pro_store": [
+                        {
+                            "pro_id": "S01_C1",
+                            "pro_name": "Ceramic Trays & Platters",
+                            "pro_img": "../../../../Assats/Store/ceramictray.jpg"
+                        },
+                        {
+                            "pro_id": "S01_C2",
+                            "pro_name": "Marbel Trays & Platters",
+                            "pro_img": "../../../../Assats/Store/marbeltray.jpg"
+                        },
+                        {
+                            "pro_id": "S01_C3",
+                            "pro_name": "Wooden Trays & Platters",
+                            "pro_img": "../../../../Assats/Store/woodtray.jpg"
+                        },
+                        {
+                            "pro_id": "S01_C4",
+                            "pro_name": "Wooden & Marbel boards",
+                            "pro_img": "../../../../Assats/Store/woodenmarbel.jpg"
+                        }
+                    ]
+                },
+                {
+                    "sub_name": "Table Linen",
+                    "sub_id": "S01_D",
+                    "sub_img": "../../../../Assats/Store/tablelinen.jpg",
+                    "pro_store": [
+                        {
+                            "pro_id": "S01_D1",
+                            "pro_name": "Table Mat",
+                            "pro_img": "../../../../assets/tablemat.jpg"
+                        },
+                        {
+                            "pro_id": "S01_D2",
+                            "pro_name": "Table Runners",
+                            "pro_img": "../../../../assets/tablerunner.jpg"
+                        },
+                        {
+                            "pro_id": "S01_D3",
+                            "pro_name": "Macrame Table Runners Mat",
+                            "pro_img": "../../../../assets/mac.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Store_name": "Sleep solution",
+            "Store_id": "T01",
+            "Store_img": "../../../../Assats/Store/sleep.jpg",
+            "sub_store": [
+                {
+                    "sub_name": "Pillow",
+                    "sub_id": "T01_A",
+                    "sub_img": "../../../../Assats/Store/pillow.jpg"
+                },
+                {
+                    "sub_name": "Blanket",
+                    "sub_id": "T01_B",
+                    "sub_img": "../../../../Assats/Store/blanket.jpg"
+                },
+                {
+                    "sub_name": "Mattress",
+                    "sub_id": "T01_C",
+                    "sub_img": "../../../../Assats/Store/mattress.jpg"
+                },
+                {
+                    "sub_name": "Bed Background wall",
+                    "sub_id": "T01_D",
+                    "sub_img": "../../../../Assats/Store/bedwall.jpg",
+                    "pro_store": [
+                        {
+                            "pro_id": "Modern Background Bed wall",
+                            "pro_name": "T01_D1",
+                            "pro_img": "../../../../assets/modernbed.jpg"
+                        },
+                        {
+                            "pro_id": "Lighting Background Bed wall",
+                            "pro_name": "T01_D2",
+                            "pro_img": "../../../../assets/lightbed.jpg"
+                        },
+                        {
+                            "pro_id": "Furnished Background Bed wall",
+                            "pro_name": "T01_D3",
+                            "pro_img": "../../../../assets/furnishedbed.jpg"
+                        },
+                        {
+                            "pro_id": "painting Background Bed wall",
+                            "pro_name": "T01_D4",
+                            "pro_img": "../../../../assets/paintingbed.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

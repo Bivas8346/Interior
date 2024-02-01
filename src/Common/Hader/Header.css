@@ -1,0 +1,23 @@
+
+.nav1{
+    background-color: #fd9b82;
+    height: 70px;
+}
+.nav2{
+    height: 50px;
+}
+.navp2{
+    font-size: 16px !important;
+    text-decoration: none;
+}
+.navp2:hover{
+    color: #666666 !important;
+    border: solid 2px #666666;
+    border-radius: 8px;
+}
+.navp2a{
+    font-size: 16px !important;
+}
+.navp2a:hover{
+    color: #666666 !important;
+}

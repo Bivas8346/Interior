@@ -1,0 +1,98 @@
+{
+    "Room":[{
+        "Room_name":"Living Room",
+        "Room_id":"A01",
+        "Room_img":"../../../../Assats/room/living.jpg",
+        "sub_room":[{
+            "sub_name":"Modern Style Living Room", 
+            "sub_id":"A01_A",
+            "sub_img":"../../../../Assats/room/living1.jpg"
+        },{
+            "sub_name":"Traditional Style Living Room",
+            "sub_id":"A01_B",
+            "sub_img":"../../../../Assats/room/living3.jpeg"
+        },{
+            "sub_name":"Rustic Style Living Room",
+            "sub_id":"A01_C",
+            "sub_img":"../../../../Assats/room/living2.jpg"
+        },{
+            "sub_name":"Simple Style Living Room",
+            "sub_id":"A01_D",
+            "sub_img":"../../../../Assats/room/living4.jpg"
+        },{
+            "sub_name":"Industrial Style Living Room",
+            "sub_id":"A01_E",
+            "sub_img":"../../../../Assats/room/living5.jpg"
+        },{
+            "sub_name":"Electric Style Living Room",
+            "sub_id":"A01_F",
+            "sub_img":"../../../../Assats/room/living6.jpg"
+        }]
+    },{
+        "Room_name":"Bedroom",
+        "Room_id":"B01",
+        "Room_img":"../../../../Assats/room/bedroom.jpg",
+        "sub_room":[{
+            "sub_name":"Traditional Style Bedoom",
+            "sub_id":"B01_A",
+            "sub_img":"../../../../Assats/room/bedroom1.jpg"
+        },{
+            "sub_name":"Rustic Style Bedoom",
+            "sub_id":"B01_B",
+            "sub_img":"../../../../Assats/room/bedroom2.jpg"
+        },{
+            "sub_name":"Cottage Style Bedoom",
+            "sub_id":"B01_C",
+            "sub_img":"../../../../Assats/room/bedroom3.jpg"
+        },{
+            "sub_name":"Modern Style Bedoom",
+            "sub_id":"B01_D",
+            "sub_img":"../../../../Assats/room/bedroom4.jpg"
+        },{
+            "sub_name":"Contemporary Style Bedoom",
+            "sub_id":"B01_E",
+            "sub_img":"../../../../Assats/room/bedroom5.jpg"
+        },{
+            "sub_name":"Indian Style Bedoom",
+            "sub_id":"B01_F",
+            "sub_img":"../../../../Assats/room/bedroom6.jpg"
+        }]
+    },{
+        "Room_name":"Dining Room",
+        "Room_id":"C01",
+        "Room_img":"../../../../Assats/room/dining.jpg" 
+    },{
+        "Room_name":"Study Room",
+        "Room_id":"D01",
+        "Room_img":"../../../../Assats/room/study.jpg"
+        },{
+        "Room_name":"Balcony",
+        "Room_id":"E01",
+        "Room_img":"../../../../Assats/room/balcony1.jpg"  
+        },{
+         "Room_name":"Kitchen",
+        "Room_id":"F01",
+        "Room_img":"../../../../Assats/room/kitchen.jpg",
+        "sub_room":[{
+            "sub_name":"The Gallery Kitchen",
+            "sub_id":"F01_A",
+            "sub_img":"../../../../Assats/room/kitchen1.jpg"
+        },{
+            "sub_name":"The U Shaped Kitchen",
+            "sub_id":"F01_B",
+            "sub_img":"../../../../Assats/room/kitchen2.jpg"
+        },{
+            "sub_name":"The L Shaped Kitchen",
+            "sub_id":"F01_C",
+            "sub_img":"../../../../Assats/room/kitchen3.jpg"
+        },{
+            "sub_name":"The Island Kitchen",
+            "sub_id":"F01_D",
+            "sub_img":"../../../../Assats/room/kitchen4.jpg"
+        },{
+            "sub_name":"The Peninsula Kitchen",
+            "sub_id":"F01_E",
+            "sub_img":"../../../../Assats/room/kitchen5.jpg"
+        }]
+        }]
+}
